@@ -1,0 +1,4 @@
+#Sun Dec 23 21:49:54 IST 2018
+base.0=/home/manish/learning flutter/helloworld/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
